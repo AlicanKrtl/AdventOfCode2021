@@ -19,5 +19,5 @@ for i in list_sum:
     if i>temp:
         count+=1
     temp = i
-print(count)
+print("Part 2:",count)
 
